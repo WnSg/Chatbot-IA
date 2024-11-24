@@ -352,3 +352,7 @@ Este archivo contiene la estructura HTML de la página web del chatbot.
   </body>
 </html>
 ```
+
+# Documentacion de Prompts
+
+![texto alternativo](https://drive.google.com/file/d/1uTMMPWPR_s2pm9nC_-0y7ESc3UwgLpuz/view?usp=sharing)
